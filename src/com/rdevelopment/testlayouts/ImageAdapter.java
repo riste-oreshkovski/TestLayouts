@@ -141,7 +141,7 @@ public class ImageAdapter extends BaseAdapter {
 	 }
 	public void nothing()
 {
-
+	//comm
 }
 	 
 	

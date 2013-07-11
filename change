@@ -1,0 +1,13 @@
+[1mdiff --git a/src/com/rdevelopment/testlayouts/ImageAdapter.java b/src/com/rdevelopment/testlayouts/ImageAdapter.java[m
+[1mindex 4852d91..91d2d62 100644[m
+[1m--- a/src/com/rdevelopment/testlayouts/ImageAdapter.java[m
+[1m+++ b/src/com/rdevelopment/testlayouts/ImageAdapter.java[m
+[36m@@ -141,7 +141,7 @@[m [mpublic class ImageAdapter extends BaseAdapter {[m
+ 	 }[m
+ 	public void nothing()[m
+ {[m
+[31m-[m
+[32m+[m	[32m//comm[m
+ }[m
+ 	 [m
+ 	[m
